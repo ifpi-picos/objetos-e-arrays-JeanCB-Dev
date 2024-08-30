@@ -1,0 +1,5 @@
+Nos últimos cinco anos, o CommonJS tem sido amplamente utilizado em diversas áreas do desenvolvimento JavaScript. 
+como por exemplo: Ambiente Node.js, Pacotes NPM, Ferramentas e Frameworks e etc.
+
+Nos últimos cinco anos, os módulos JavaScript têm sido usados em diversos contextos e com diferentes sistemas de módulos, tendo como exemplo o desenvolvimento Web.
+ECMAScript Modules Com o avanço do suporte nativo para módulos ECMAScript (ESM) em navegadores modernos e no Node.js, muitos projetos web têm adotado ESM para modularização de código. Isso inclui aplicações frontend desenvolvidas com frameworks modernos como React, Vue.js e Angular.

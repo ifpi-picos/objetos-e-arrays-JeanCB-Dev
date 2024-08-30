@@ -1,0 +1,13 @@
+Reusabilidade: Módulos bem definidos podem ser reutilizados em diferentes partes do projeto ou em outros projetos, economizando tempo e esforço.
+
+como por exemplo, ao declarar uma função com um cálculo como multiplicação, ao necessitar realizar uma multiplicação, chama-se apenas a função ao invés de criar o código toda vez.
+
+
+Manutenção Simples: Alterações em um módulo não afetam diretamente outros módulos, facilitando a manutenção do código.
+
+Ao necessitar realizar uma alteração em um modo de multiplicação por exemplo, altera somente na função o que faz já ser aplicado em todo o código, ao invés de substituir um a um.
+
+
+Testabilidade: Módulos isolados são mais fáceis de testar, proporcionando maior confiança na integridade do código.
+
+separando em módulos é possível fazer teste individual em cada módulo, garantindo assim que tudo esteja funcionando corretamente.
